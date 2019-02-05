@@ -2,12 +2,12 @@
 
 > EDF API client reverse engineered for javascript
 
-[![NPM](https://img.shields.io/npm/v/edf-api.svg)](https://www.npmjs.com/package/edf-api) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/@dallegoet/edf-api.svg)](https://www.npmjs.com/package/@dallegoet/edf-api) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-yarn add edf-api
+yarn add "@dallegoet/edf-api"
 ```
 
 ## Usage
