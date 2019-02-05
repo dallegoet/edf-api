@@ -1,6 +1,6 @@
 {
   "name": "@dallegoet/edf-api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "EDF API client reverse engineered for javascript",
   "author": "dallegoet",
   "license": "MIT",
