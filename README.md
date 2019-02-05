@@ -13,10 +13,10 @@ yarn add "@dallegoet/edf-api"
 ## Usage
 
 ```js
-import { Client } from '@dallegoet/edf-api';
+import EdfApi from '@dallegoet/edf-api';
 import moment from 'moment';
 
-const client = new Client('email', 'password'); // from edf.fr
+const client = new EdfApi.Client('email', 'password'); // from edf.fr
 
 const begin = moment().startOf('month');
 const end = moment();
