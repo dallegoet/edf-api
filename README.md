@@ -2,6 +2,8 @@
 
 > EDF API client reverse engineered for javascript
 
+:no_entry: [DEPRECATED] No longer works, the edf api has been modified.
+
 [![NPM](https://img.shields.io/npm/v/@dallegoet/edf-api.svg)](https://www.npmjs.com/package/@dallegoet/edf-api) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
